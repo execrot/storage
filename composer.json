@@ -1,5 +1,5 @@
 {
-    "name": "wellaflex/storage",
+    "name": "execrot/storage",
     "type": "library",
     "require": {
         "php": ">=5.3"
